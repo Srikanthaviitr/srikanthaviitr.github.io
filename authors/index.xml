@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Srikanth Avasarala</title>
+    <link>https://srikanthav.github.io/authors/</link>
+    <description>Recent content in Authors on Srikanth Avasarala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://srikanthav.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://srikanthav.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srikanthav.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! I am currently pursuing Masters (Research) in Computational Science from the Department of Computational and Data Science, IISc Bangalore. I am currently affiliated with the QUEST lab (Quantification of Uncertainity in Engineering, Science and Technology) working under Dr. Deepak Subramani with research focus mainly on Data assimilation in dynamical systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Srikanth Avasarala</title>
-    <link>https://srikanthav.github.io/publication_types/</link>
+    <link>https://srikanthavasarala.github.io/publication_types/</link>
     <description>Recent content in Publication_types on Srikanth Avasarala</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 23:58:37 +0530</lastBuildDate>
     
-	    <atom:link href="https://srikanthav.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://srikanthavasarala.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2</title>
+      <link>https://srikanthavasarala.github.io/publication_types/2/</link>
+      <pubDate>Wed, 02 Jan 2019 23:58:37 +0530</pubDate>
+      
+      <guid>https://srikanthavasarala.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
